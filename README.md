@@ -21,7 +21,7 @@ My portfolio was built with `React.js`, `Bootstrap`, `Node.js`, `CSS` and `HTML`
 
 
 ### Deployment
-View Deployment: 
+View Deployment: https://kenoginga.github.io/react_portfolio/
 
 ### Contibutors
 Kennedy Oginga
