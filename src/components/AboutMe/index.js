@@ -7,7 +7,7 @@ function AboutMe() {
             
             <div className="row bg-light align-items-center mt-2" style={{flexWrap: "wrap"}, {display: "flex"}}>
                 <div className="col-md-4">
-                    <img className="rounded-circle" src={ myImage } alt="my image" style={{height: 550}, {width: 450}}/>
+                    <img className="rounded-circle" src={ myImage } alt="myself" style={{height: 550}, {width: 450}}/>
                 </div>
                 <div className="col-md-7 text-center">
                     <h2>About Me</h2>
