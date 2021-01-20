@@ -16,6 +16,7 @@ This is my most recently published personal portfolio. It documents various proj
 My portfolio was built with `React.js`, `Bootstrap`, `Node.js`, `CSS` and `HTML`.
 
 ### Screenshot
+![image](https://user-images.githubusercontent.com/72943649/105125964-4349a100-5aa3-11eb-941a-e35ed8bfcfe7.png)
 
 
 
