@@ -1,6 +1,6 @@
 # 💡 Project Title: React Portfolio
 
-# Table of Contents
+### Table of Contents
 * [Project Description](#Description)
 
 * [Installation](#Installation)
@@ -10,22 +10,22 @@
 * [Contributors](#Contributors)
 
 
-# Description
+### Description
 This is my most recently published personal portfolio. It documents various projects that I have completed recently, as well as my contact information.
 
-My portfolio was built with React.js, Bootstrap, Node.js, CSS and HTML.
+My portfolio was built with `React.js`, `Bootstrap`, `Node.js`, `CSS` and `HTML`.
 
-# Screenshot
+### Screenshot
 
 
 
-# Deployment
-View Deployment: https://thawing-dusk-37270.herokuapp.com/
+### Deployment
+View Deployment: 
 
-# Contibutors
+### Contibutors
 Kennedy Oginga
 
-# Contact: 
+### Contacts
  
   * 💌  Email: kn.oginga@gmail.com 
  
