@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react_portfolio/static/css/main.445a83ca.chunk.css",
-    "main.js": "/react_portfolio/static/js/main.7b01d24c.chunk.js",
-    "main.js.map": "/react_portfolio/static/js/main.7b01d24c.chunk.js.map",
+    "main.js": "/react_portfolio/static/js/main.bae0e12d.chunk.js",
+    "main.js.map": "/react_portfolio/static/js/main.bae0e12d.chunk.js.map",
     "runtime-main.js": "/react_portfolio/static/js/runtime-main.70af751f.js",
     "runtime-main.js.map": "/react_portfolio/static/js/runtime-main.70af751f.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/react_portfolio/static/css/2.ae9f1eb3.chunk.css",
@@ -14,8 +14,10 @@
     "static/js/2.a86c06d3.chunk.js.LICENSE.txt": "/react_portfolio/static/js/2.a86c06d3.chunk.js.LICENSE.txt",
     "static/media/Kennedy_Oginga_Resume.fc42cf4c.pdf": "/react_portfolio/static/media/Kennedy_Oginga_Resume.fc42cf4c.pdf",
     "static/media/style.css": "/react_portfolio/static/media/backgroundImage.19d6d02f.JPG",
+    "static/media/budget_tracker_screenshot.0a811c39.PNG": "/react_portfolio/static/media/budget_tracker_screenshot.0a811c39.PNG",
     "static/media/burger_logger.ab2e454f.PNG": "/react_portfolio/static/media/burger_logger.ab2e454f.PNG",
     "static/media/day_planner.c5dee7ff.PNG": "/react_portfolio/static/media/day_planner.c5dee7ff.PNG",
+    "static/media/employee_directory_screenshot.53899ed0.PNG": "/react_portfolio/static/media/employee_directory_screenshot.53899ed0.PNG",
     "static/media/myImage.54597529.jpg": "/react_portfolio/static/media/myImage.54597529.jpg",
     "static/media/note_taker.5611a795.PNG": "/react_portfolio/static/media/note_taker.5611a795.PNG",
     "static/media/vita.10943d6c.png": "/react_portfolio/static/media/vita.10943d6c.png"
@@ -25,6 +27,6 @@
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.a86c06d3.chunk.js",
     "static/css/main.445a83ca.chunk.css",
-    "static/js/main.7b01d24c.chunk.js"
+    "static/js/main.bae0e12d.chunk.js"
   ]
 }
